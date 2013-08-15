@@ -2,6 +2,18 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "Angular Invoicing",
+      "thumb": "angular-invoicing/thumb.png",
+      "desc": "Use this extremely small and lightweight project built in Angular JS to build your one off Invoices. No monthly fees, No Subscriptions - No heavy duty features, Just simple invoices. We are using Angular JS, Bootstrap 3, and jQuery.",
+      "url": "http://metaware.github.io/angular-invoicing/",
+      "info": "https://github.com/metaware/angular-invoicing/",
+      "submitter": "Metaware Labs",
+      "submissionDate": "2013-08-15",
+      "tags": [
+        "Production", "Productivity", "Free", "Invoices", "Angular JS", "jQuery", "Bootstrap 3", "Open Source"
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
